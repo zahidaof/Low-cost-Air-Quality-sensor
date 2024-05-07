@@ -6,7 +6,7 @@ This project is an air quality monitoring system that uses an ESP32 microcontrol
 ## Components
 - **ESP32**: The main microcontroller that processes sensor data and manages WiFi connectivity.
 - **MQ7 Carbon Monoxide Sensor**: Detects CO levels in the air.
-- **MQ131 Ozone Sensor**: Measures concentrations of O3 (ozone).
+- **MQ131 Ozone Sensor**: Measures concentrations of No2.
 - **PMS5003 Particulate Matter Sensor**: Monitors PM2.5 and PM10 levels.
 - **OLED Display**: Shows the current air quality readings and status messages.
 - **WiFi Module**: Allows the device to connect to the internet for data logging and remote access.
